@@ -1,3 +1,4 @@
+// // Solution to P.E Exercise 2
 public class PEU002 {
     public static void main (String[]args) {
         int n1 = 1;
