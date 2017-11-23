@@ -9,7 +9,7 @@ public class PEU002 {
             n1 = n2;
             n2 = n3;
             if (n3%2==0) 
-                sumEven = n3 + sumEven;
+                sumEven += n3;
         }
         System.out.println ("the sum is: " + sumEven);
     }
